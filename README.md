@@ -4,5 +4,5 @@ The simplest React app I could think of to send a simple text file to an [Expres
 
 Just run
 
-`npm install`
-`npm start`
+    npm install
+    npm start
